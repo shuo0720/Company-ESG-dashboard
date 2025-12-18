@@ -1,4 +1,4 @@
-# Company ESG Tableau Dashboard
+# Company-ESG-dashboard
 
 ## 📊 Dashboard Overview
 
