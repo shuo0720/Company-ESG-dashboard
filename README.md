@@ -3,10 +3,10 @@
 ## 📊 Dashboard Overview
 
 ### Global ESG Dashboard  
-![Overall ESG Dashboard]("ESG Dashboard1.png")
+![Overall ESG Dashboard](ESG Dashboard1.png)
 
 ### Regional ESG Dashboard  
-![Detailed ESG Dashboard]("ESG Dashboard2.png")
+![Detailed ESG Dashboard](ESG Dashboard2.png)
 
 👉 **Click here to view the full interactive dashboard on Tableau Public:**  
 https://public.tableau.com/shared/CQJRNJP6B?:display_count=n&:origin=viz_share_link
